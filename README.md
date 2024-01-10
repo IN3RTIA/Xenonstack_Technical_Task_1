@@ -1,7 +1,7 @@
 # Xenonstack_Technical_Task_1
 
 Linux Custom Command:
-I had put my code for XenonStack's technical assessment.
+I have provided screenshots on the above.
 internsctl - Custom Command
 internsctl is a custom command designed to perform various system operations and information retrieval tasks, simplifying administrative tasks and providing insights into system resources and users.
 
